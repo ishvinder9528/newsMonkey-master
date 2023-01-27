@@ -1,0 +1,186 @@
+{
+  "status": "ok",
+  "totalResults": 18,
+  "articles": [
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Kaylyn McKenna",
+      "title": "Amazon just put the new Amazon Fire HD 8 tablet on sale for an unbeatable price",
+      "description": "Shop the top deals this week at Amazon, including savings on Apple AirPods, iRobot Roombas, coffee makers and more.",
+      "url": "https://www.cbsnews.com/essentials/amazon-fire-hd-sale/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/23/9eb7d456-0be7-4df6-9174-c428555e8ba5/thumbnail/1200x630/daa38b49228173c402f6e4f235bfb2d2/amazon-fire-table-amazon-deals-header.png",
+      "publishedAt": "2023-01-26T19:07:27+00:00",
+      "content": "Amazon\r\nThe new Fire HD 8 tablet (2022) offers 30% faster performance than the prior model. The tablet features a lightweight yet durable design with an 8-inch HD screen. It also provides enhanced ba… [+31376 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Eric Levenson, Melissa Alonso, Chris Boyette",
+      "title": "All 5 former Memphis police officers charged with murder in Tyre Nichols’ death, court records show",
+      "description": "All five former Memphis police officers who were fired for their actions in the arrest of Tyre Nichols earlier this month have been charged with his murder, according to Shelby County court records.",
+      "url": "https://www.cnn.com/2023/01/26/us/tyre-nichols-memphis-thursday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230125184201-02-tyre-nichols.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-26T18:58:00+00:00",
+      "content": "All five former Memphis police officers who were fired for their actions in the arrest of Tyre Nichols earlier this month have been charged with murder, according to Shelby County court records.\r\nTad… [+6271 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Fox News",
+      "title": "Tyre Nichols case: 5 former Memphis police officers charged with second-degree murder",
+      "description": "The 5 Memphis Police Department officers fired following the death of Tyre Nichols after a traffic stop on Jan. 7 are now facing second-degree murder charges.",
+      "url": "https://www.foxnews.com/us/tyre-nichols-case-5-former-memphis-police-officers-charged-second-degree-murder",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/THUMB-Memphis-police-officers.jpg",
+      "publishedAt": "2023-01-26T18:37:18.9270384Z",
+      "content": "The five former Memphis Police Department officers fired following the death of Tyre Nichols have been charged with second-degree murder, aggravated assault and other charges.\r\nJail records show Tada… [+4012 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Robert Klemko, David Nakamura",
+      "title": "Fired Memphis officers jailed as city awaits news of charges in Tyre Nichols’ death",
+      "description": "Tyre Nichols died three days after being severely beaten following a traffic stop on Jan. 7.",
+      "url": "https://www.washingtonpost.com/national-security/2023/01/26/memphis-officers-charged-tyre-nichols/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NUYU4LUKUPWSTXJ4YP2S4SOX5Y.JPG&w=1440",
+      "publishedAt": "2023-01-26T17:59:57Z",
+      "content": "Comment on this story\r\nThe five Memphis police officers fired last week in connection with the beating death of a 29-year-old Black man have been booked into the Shelby County jail, and a lawyer for … [+2342 chars]"
+    },
+    {
+      "source": { "id": "ansa", "name": "ANSA.it" },
+      "author": "ANSA.it",
+      "title": "Turista Usa in auto sul Ponte Vecchio a Firenze, multato - Ultima Ora",
+      "description": "È passato da Ponte Vecchio con l'auto a noleggio ma non è sfuggito alla polizia municipale che l'ha multato. Si tratta di un turista statunitense che è entrato dal lato di Por Santa Maria. Il fatto è accaduto nel primo pomeriggio di oggi. (ANSA)",
+      "url": "http://www.ansa.it/sito/notizie/topnews/2023/01/26/turista-usa-in-auto-sul-ponte-vecchio-a-firenze-multato_4c97cc96-493e-4a32-b4e8-430390a3045c.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2016/11/9/57647a3d966b4107b641c57a866305de.jpg",
+      "publishedAt": "2023-01-26T17:42:00Z",
+      "content": "(ANSA) - FIRENZE, 26 GEN - È passato da Ponte Vecchio con\r\nl'auto a noleggio ma non è sfuggito alla polizia municipale che\r\nl'ha multato. Si tratta di un turista statunitense che è entrato\r\ndal lato … [+460 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Rich CiminiESPN Staff Writer ",
+      "title": "Jets hire former Broncos coach Nathaniel Hackett as new OC",
+      "description": "Nathaniel Hackett, who was fired by the Broncos after 15 games as the team's head coach, has been hired by the Jets as offensive coordinator, the team announced Thursday.",
+      "url": "http://espn.go.com/nfl/story/_/id/35531136/jets-hire-former-broncos-coach-nathaniel-hackett-new-oc",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1218%2Fr1108471_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-01-26T16:17:00Z",
+      "content": "FLORHAM PARK, N.J. -- The New York Jets ended their two-week search for an offensive coordinator, hiring former Denver Broncos coach Nathaniel Hackett on Thursday -- a move that will fuel speculation… [+1216 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "ADRIAN SAINZ and REBECCA REYNOLDS",
+      "title": "5 Memphis cops charged with murder in Tyre Nichols' death",
+      "description": "MEMPHIS, Tenn.. (AP) — Five fired Memphis police officers were charged Thursday with second-degree murder and other crimes in the arrest and death of Tyre Nichols, a Black motorist who died three days after a confrontation with the officers during a traffic s…",
+      "url": "https://apnews.com/48d48f2137a2f34482274edb1bd1bab2",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/faf91bf1286345b5b63a04313e100f68/3000.jpeg",
+      "publishedAt": "2023-01-26T15:52:25Z",
+      "content": "MEMPHIS, Tenn.. (AP) — Five fired Memphis police officers were charged Thursday with second-degree murder and other crimes in the arrest and death of Tyre Nichols, a Black motorist who died three day… [+4431 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "The Associated Press",
+      "title": "Girl, 3, dies after Indiana apartment fire kills dad, sister",
+      "description": "A fire official says a 3-year-old girl has died more than two weeks after she was seriously injured in an Indianapolis apartment fire that killed her father and 15-month-old sister",
+      "url": "https://abcnews.go.com/US/wireStory/girl-3-dies-after-indiana-apartment-fire-kills-96690180",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-01-26T15:18:28Z",
+      "content": "INDIANAPOLIS -- A 3-year-old girl has died more than two weeks after she was seriously injured in an Indianapolis apartment fire that killed her father and 15-month-old sister, a fire official said.\r… [+1243 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Morgan Winsor",
+      "title": "Illinois man charged with setting fire to Planned Parenthood clinic",
+      "description": "If convicted, he could be sentenced to as many as 40 years behind bars.",
+      "url": "https://abcnews.go.com/US/illinois-man-charged-setting-fire-planned-parenthood-clinic/story?id=96682791",
+      "urlToImage": "https://s.abcnews.com/images/US/planned-parenthood-gty-mz-03-230126_1674739159695_hpMain_16x9_992.jpg",
+      "publishedAt": "2023-01-26T13:30:00Z",
+      "content": "An Illinois man has been arrested and charged for allegedly setting fire to a Planned Parenthood clinic, federal authorities said.\r\nTyler W. Massengill, 32, of Chillicoth, Illinois, is facing charges… [+5110 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": null,
+      "title": "Putin’s brutal revenge after West’s war move",
+      "description": "<p>Russian forces fired dozens of missiles at Ukraine on Thursday in a blistering wave of strikes targeting energy infrastructure a day after Germany and the United States pledged modern tanks for Kyiv. </p>",
+      "url": "https://www.news.com.au/world/europe/russia-launches-dozens-of-missiles-at-ukraine-after-us-germany-pledge-tanks-to-kyiv/news-story/dcd5d313d1a209cc54b026edf81f9968",
+      "urlToImage": "https://content.api.news/v3/images/bin/f09ba9ec9e6c889527b3ce9726e38546",
+      "publishedAt": "2023-01-26T10:41:00Z",
+      "content": "Russian forces fired dozens of missiles at Ukraine on Thursday in a blistering wave of strikes targeting energy infrastructure a day after Germany and the United States pledged modern tanks for Kyiv.… [+4099 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "HANNA ARHIROVA and SAMYA KULLAB",
+      "title": "Russian attacks on Ukraine reported; at least 11 dead",
+      "description": "KYIV, Ukraine (AP) — Russian forces fired another rash of missiles and self-exploding drones in nearly a dozen provinces of Ukraine early Thursday, causing the first attack-related death of the year in Kyiv and killing at least 11 people in all, according to …",
+      "url": "https://apnews.com/417545bf8718da9dad1b3a047abf32f6",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/99bd8eb3fdeb4f4fb2960e1063a6966a/3000.jpeg",
+      "publishedAt": "2023-01-26T07:14:13Z",
+      "content": "KYIV, Ukraine (AP) — Russian forces fired another rash of missiles and self-exploding drones in nearly a dozen provinces of Ukraine early Thursday, causing the first attack-related death of the year … [+5821 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Mersiha Gadzo",
+      "title": "Russia-Ukraine live: Air raid alert declared across Ukraine",
+      "description": "Air raid sirens and power outages reported across Ukraine as air defences fire at waves of Russian missiles.",
+      "url": "http://www.aljazeera.com/news/liveblog/2023/1/26/russia-ukraine-live-news-air-raid-alert-across-country",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/01/000_337U23A.jpg?resize=1920%2C1440",
+      "publishedAt": "2023-01-26T07:11:43Z",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nAir raid sirens and power outages reported across Ukraine as air defences fire at waves of Russian missiles."
+    },
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "David Moye",
+      "title": "Razzie Awards Regrets Nominating 12-Year-Old Girl For 'Worst Actress' Award",
+      "description": "The organization has removed \"Firestarter\" star Ryan Kiera Armstrong as a nominee and said it won't nominate any performers under 18 moving forward.",
+      "url": "https://www.huffpost.com/entry/razzie-awards-removes-firestarter-nominee_n_63d18b1fe4b07c0c7e00e68f",
+      "urlToImage": "https://img.huffingtonpost.com/asset/63d18d4c2500005e00a22fd2.png?cache=vN9kDGnIyG&ops=1200_630",
+      "publishedAt": "2023-01-25T21:33:04Z",
+      "content": "The Razzie Awards has removed a 12-year-old girl from the Worst Actress category after social media users called out the organization out for publicly shaming her.\r\nOn Monday, the Razzies announced i… [+1895 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Rajat Pandit",
+      "title": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China",
+      "description": "India News:  The Army is now exploring the possibility of procuring 350 light tanks, which can also be transported by air, to augment its firepower in high-altitu",
+      "url": "http://timesofindia.indiatimes.com/india/army-explores-procurement-of-350-light-tanks-for-mountainous-terrain-after-border-standoff-with-china/articleshow/82217825.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82217908,width-1070,height-580,imgsize-264639,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T08:29:00Z",
+      "content": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Army explores procurement of 350 light tanks for mou… [+58 chars]"
+    },
+    {
+      "source": { "id": "vice-news", "name": "Vice News" },
+      "author": "David Gilbert",
+      "title": "Minneapolis is Burning: Protesters Loot and Set Buildings On Fire to Protest Police Killing of George Floyd",
+      "description": "Police used tear gas and rubber bullets on protesters who gathered outside the precinct where Derek Chauvin, the officer who kneeled on Floyd's neck until he was unresponsive, worked until this week.",
+      "url": "https://www.vice.com/en_us/article/y3zd5x/minneapolis-is-burning-protesters-loot-and-set-buildings-on-fire-to-protest-police-killing-of-george-floyd",
+      "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecf88fdcb0f08009c8e79f7/lede/1590662200111-AP_20149167679642.jpeg?crop=1xw:0.8387xh;0xw,0.0189xh&resize=1200:*",
+      "publishedAt": "2020-05-28T11:20:17Z",
+      "content": "Want the best of VICE News straight to your inbox? Sign up here.\r\n Minneapolis burned on Wednesday night as protesters clashed with police for a second night following the death of George Floyd after… [+4576 chars]"
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": "Lahav Harkov",
+      "title": "Islamic Jihad says not ready for ceasefire; PM: We will do what’s needed",
+      "description": "“We will not tolerate attacks on our citizens,” Netanyahu said. “In the last year, we accumulated a mass of these attacks.”",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Islamic-Jihad-says-not-ready-for-ceasefire-PM-PM-will-do-whats-needed-607731",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448882",
+      "publishedAt": "2019-11-13T12:52:00Z",
+      "content": "Al-Ata “was ready to carry out more and more terrorists attacks, including in these days. We thwarted him when we were not heading for an escalation, but we will do all that we need to defend our cit… [+1672 chars]"
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": "Seth J. Frantzman",
+      "title": "Israel under fire: Interactive Map of rocket strikes",
+      "description": "",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Israel-under-fire-Interactive-Map-of-rocket-strikes-607725",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448867",
+      "publishedAt": "2019-11-13T11:03:00Z",
+      "content": "var cont = `Join Jerusalem Post Premium Plus now for just $5 and upgrade your experience with an ads-free website and exclusive content. Click here&gt;&gt;\r\n`;\r\ndocument.getElementById(\"linkPremium\")… [+41 chars]"
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": "Anna Ahronheim",
+      "title": "Massive barrage towards southern and central Israel shatters quiet",
+      "description": "IDF expects another day of rocket fire.",
+      "url": "https://www.jpost.com/Middle-East/Massive-barrage-towards-southern-and-central-Israel-shatters-quiet-607709",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448821",
+      "publishedAt": "2019-11-13T07:47:00Z",
+      "content": "Barrages of over a dozen rockets were launched by Palestinian Islamic Jihad towards southern and central Israel shattered a brief quiet felt overnight.\r\nIncoming rocket sirens sounded in Gaza border … [+3306 chars]"
+    }
+  ]
+}
