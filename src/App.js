@@ -2,18 +2,20 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import News from "./components/News";
 import {
-  BrowserRouter,
-  Routes,
+  BrowserRouter as Router,
+  Switch,
   Route,
+  
 } from "react-router-dom";
+
 
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <Router>
         <Navbar />
         <div className="App"></div>
-        <Routes>
+        <Switch>
           <Route exact path="/">
             <News key='general' pageSize={15} country="in" category="general" />
           </Route>
@@ -38,8 +40,8 @@ function App() {
           <Route exact path="/technology">
             <News key='technology' pageSize={15} country="in" category="technology" />
           </Route>
-        </Routes>
-      </BrowserRouter>
+        </Switch>
+      </Router>
     </>
   );
 }
