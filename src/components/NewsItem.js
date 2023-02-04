@@ -7,7 +7,6 @@ export class NewsItem extends Component {
     return (
       <div className="my-3">
         <div className="card">
-          
           <div
             style={{
               display: "flex",
@@ -30,19 +29,26 @@ export class NewsItem extends Component {
             className="card-img-top"
             alt="..."
           />
-          <div className="card-body">
-            <h5 className="card-title">{title}...</h5>
-            <p className="card-text">{description}...</p>
+          <div
+            className="card-body"
+            style={{
+              background:
+                "linear-gradient(90deg, rgba(79,79,79,1) 0%, rgba(78,81,82,1) 21%, rgba(130,115,115,1) 51%, rgba(84,80,80,1) 74%, rgba(186,186,186,1) 100%)",
+            }}
+          >
+            <h5 className="card-title" style={{color:'white'}}>{title}...</h5>
+            <p className="card-text" style={{color:'rgb(229 229 229)'}}>{description}...</p>
             <a
               href={newsDetail}
               target="_blank"
               className="btn btn-sm btn-dark"
               rel="noreferrer"
+              style={{color:'rgb(229 229 229)'}}
             >
               Read Full News
             </a>
             <p className="card-text">
-              <small className="text-muted">
+              <small style={{color:'#c5c8cb'}}>
                 by {author ? author : "Unknown"} at{" "}
                 {new Date(date).toGMTString()}
               </small>
